@@ -1,0 +1,1 @@
+// PRISMA CONFIG - This file is used to configure the Prisma schema and Prisma Client
